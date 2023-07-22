@@ -5,7 +5,7 @@
 Install with the command:
 
 ```
-nmp install --save marcelgabber-js-footer
+npm install --save marcelgabber-js-footer
 ```
 
 Add to Javascript Project with the following code:
